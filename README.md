@@ -3,10 +3,6 @@
 <h1 align="center">Staff Engineer • AI & Large-Scale Integrations</h1>
 
 <p align="center">
-  <img src="./assets/profile.jpg" alt="Profile photo" width="220" style="border-radius:12px;" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=900&color=0A0A0A&center=true&vCenter=true&width=700&lines=11%2B+years+engineering+modern+JavaScript+stacks;Staff+Engineer+%7C+AI%2FLLM+Integrations+at+Scale;Cloud-native+Architectures+%7C+APIs+%7C+Microservices;Global+delivery%3A+BR+NZ+USA+Qatar+PT+CO+MX+AR" 
@@ -94,25 +90,10 @@ I value pragmatic architecture, clean abstractions, and measurable business impa
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" 
-  />
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" 
-  />
-</p>
-
----
-
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: your.email@domain.com  
+- LinkedIn: https://www.linkedin.com/in/lucasdezerto/
+- Email: lucas.depassos93@gmail.com
 
 ---
 
